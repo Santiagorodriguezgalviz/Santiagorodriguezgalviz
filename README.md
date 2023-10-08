@@ -1,16 +1,17 @@
-### Hi there 👋
+### Cordial saludo, este es mi repositorio de las diferentes actividades de codificación que he abordado. 😊
 
-<!--
-**Santiagorodriguezgalviz/Santiagorodriguezgalviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eyder Santiago Rodríguez Galvis 👨‍💻
 
-Here are some ideas to get you started:
+## Mis repositorios 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Repositorio de las actividades del tecnólogo de ADSo
+  - [GitHub Repository](https://github.com/Santiagorodriguezgalviz/sena2023.git) 📂
+
+- Ejercicios de algoritmia
+  - [GitHub Repository](https://github.com/Santiagorodriguezgalviz/25-ejercicios-algoritmia.git) 🧩
+
+- Ejercicios de arreglos unidimensionales
+  - [GitHub Repository](https://github.com/Santiagorodriguezgalviz/ejercicios-arreglos-unidimensionales.git) 📊
+
+- Ejercicio Premio
+  - [GitHub Repository](https://github.com/Santiagorodriguezgalviz/ejerciciospremio.git) 🏆
