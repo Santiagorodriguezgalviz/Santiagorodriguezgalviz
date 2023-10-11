@@ -1,6 +1,6 @@
 ### Cordial saludo, este es mi repositorio de las diferentes actividades de codificación que he abordado. 😊
 
-# Eyder Santiago Rodríguez Galvis 👨‍💻
+# Heyder Santiago Rodríguez Galvis 👨‍💻
 
 ## Mis repositorios 📚
 
