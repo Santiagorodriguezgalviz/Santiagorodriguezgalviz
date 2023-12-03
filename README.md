@@ -5,13 +5,11 @@
 ## Mis repositorios 📚
 
 
-  - [GitHub Repository](https://github.com/Santiagorodriguezgalviz/sena2023.git) 
-
 - Ejercicios de algoritmia
   - [GitHub Repository](https://github.com/Santiagorodriguezgalviz/25-ejercicios-algoritmia.git) 🧩
 
 - Ejercicios de arreglos unidimensionales
   - [GitHub Repository](https://github.com/Santiagorodriguezgalviz/ejercicios-arreglos-unidimensioanales.git) 📊
 
--Repositorio de las actividades del tecnólogo de ADSo
+Repositorio de las actividades del tecnólogo de ADSo
   - [GitHub Repository](https://github.com/Santiagorodriguezgalviz/ejerciciospremio.git)📂
