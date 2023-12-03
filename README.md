@@ -11,5 +11,5 @@
 - Ejercicios de arreglos unidimensionales
   - [GitHub Repository](https://github.com/Santiagorodriguezgalviz/ejercicios-arreglos-unidimensioanales.git) 📊
 
-Repositorio de las actividades del tecnólogo de ADSo
+● Repositorio de las actividades del tecnólogo de ADSo
   - [GitHub Repository](https://github.com/Santiagorodriguezgalviz/ejerciciospremio.git)📂
