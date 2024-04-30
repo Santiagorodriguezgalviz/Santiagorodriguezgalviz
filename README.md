@@ -29,7 +29,7 @@ Este proyecto de backend en Node.js  del Tecnólogo en Análisis y Desarrollo de
 - MongoDB (o cualquier otra base de datos compatible)
 - JWT (JSON Web Tokens) para autenticación
 
- - [GitHub Repository] (https://github.com/Santiagorodriguezgalviz/2959798-BACKNODE.JS-HEYDER-RODRIGUEZ.git)
+ - [GitHub Repository](https://github.com/Santiagorodriguezgalviz/2959798-BACKNODE.JS-HEYDER-RODRIGUEZ.git)
 
 ## Tecnologías Utilizadas
 
