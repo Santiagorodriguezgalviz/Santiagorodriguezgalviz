@@ -16,7 +16,7 @@
 - **Tienda monolito**
   - [GitHub Repository](https://github.com/jhonnCorredor/Monolito-Tienda-de-Manolo.git)
 
-## Backend en Node.js por Heyder Santiago Rodríguez Galvis
+## Backend en Node.js por Heyder Santiago Rodríguez Galviz
 
 ¡Bienvenido al repositorio del Backend en Node.js desarrollado por Heyder Santiago Rodríguez Galvis!
 
