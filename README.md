@@ -18,9 +18,9 @@
 
 ## Backend en Node.js por Heyder Santiago Rodríguez Galviz
 
-¡Bienvenido al repositorio del Backend en Node.js desarrollado por Heyder Santiago Rodríguez Galvis!
+¡Bienvenido al repositorio del Backend en Node.js desarrollado por Heyder Santiago Rodríguez Galviz!
 
-Este proyecto de backend en Node.js es parte del curso de Desarrollo de Aplicaciones Móviles del Tecnólogo en Análisis y Desarrollo de Sistemas de la SENA. El objetivo principal es proporcionar una API RESTful para una aplicación móvil, incluyendo funciones como autenticación de usuarios, gestión de productos, pedidos y más.
+Este proyecto de backend en Node.js  del Tecnólogo en Análisis y Desarrollo de Sistemas del SENA.
 
 ### Tecnologías Utilizadas
 
